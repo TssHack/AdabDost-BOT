@@ -10,10 +10,10 @@ from telethon import TelegramClient, events, Button
 from telethon.errors import MessageNotModifiedError
 
 class Config:
-    API_ID = 37705245
-    API_HASH = 'da9cc212fcb12f35ef19f3117ac384f3'
-    BOT_TOKEN = '8298962988:AAFlfJZ8RrZOMdB0KQl0VPtCAN8f3xy6Yv0'
-    GEMINI_API_KEY = 'AIzaSyCxdzyeOIyfFyBDHMUD0Zaeh0CLiYdM2EE'
+    API_ID = #
+    API_HASH = '#'
+    BOT_TOKEN = '#'
+    GEMINI_API_KEY = '#'
     DEV_USERNAME = 'abj0o'
     DB_NAME = 'adab_flawless.db'
     
